@@ -1,4 +1,4 @@
-# iOSMessageApp
+# iOS Messaging App Sample to split Messages with Unit tests
 Messaging App
 
 
