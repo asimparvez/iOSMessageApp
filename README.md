@@ -20,5 +20,3 @@ Furthermore, I have used SlackTextViewController for representing chat control. 
 Unit tests have been added to test the splitMessage function as required. The method splits the input message regardless of the length of input string, extremely large inputs are also possible.
 
 Please note that a single word can not be longer than 50 characters as per requirement. Simultaneously, the message part prefix also counts towards total character count hence if prefix + word count is greater than 50 the app shows an error.
-
-Please let me know incase there are any queries or questions.
